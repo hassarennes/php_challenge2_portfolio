@@ -1,3 +1,12 @@
+pour Monsieur le correcteur 
+Je t envoi ce portfolio Toute la structure et le responsive sont ok
+par contre je n ai pas eu le temps de le finir entierement
+j ai commencer le challenge en retard par rapport aux autres 
+je sais ce n est pas une excuse mais j aimerai pouvoir le finir ce week end
+je t envoi quand meme la pull request et je te renverrai le portfolio lundi finit entierement  
+merci de ta comprehension pour celui qui le corrigera soit  Erwann soit Ange
+
+
 # Portfolio
 
 The target of this challenge is to realize your own portfolio. 
